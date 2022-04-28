@@ -1,0 +1,30 @@
+# Global site settings
+
+title: "Енергозберігаючі металопластикові конструкції: купити вікна в Чернігові | CMP"
+description: "Широкий вибір металопластикових конструкцій, безкоштовний замір, якісна установка, гарантія якості."
+baseurl: ""
+url: ""
+github_username:  yulyan4i4ek
+phone: "+38-098-737-13-19"
+adress: "м.Чернігів, просп. Миру, 281/17"
+email: "info@cmp.cn.ua"
+
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+markdown: kramdown
+
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
